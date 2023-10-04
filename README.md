@@ -16,3 +16,5 @@
 ![Задание 4](https://github.com/Anton-Kovalev-10/Final_Work/assets/119130095/a1740213-7238-4aa7-a0d8-94031aba9506)
 ![Задание 4-1](https://github.com/Anton-Kovalev-10/Final_Work/assets/119130095/a8ea6b1b-1677-4169-a027-b1784edda3ce)
 Задание 5 находится в файле History_Comand
+Задание 6
+![Снимок экрана (30)](https://github.com/Anton-Kovalev-10/Final_Work/assets/119130095/3f44d14f-7b4f-4e32-8d8a-d58726c74be3)
