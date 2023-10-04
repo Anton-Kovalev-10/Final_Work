@@ -8,3 +8,6 @@
 ![Задание 3-2](https://github.com/Anton-Kovalev-10/Final_Work/assets/119130095/1c0d67b0-18a9-4da5-852e-d1237d8ee8fe)
 ![Задание 3-3](https://github.com/Anton-Kovalev-10/Final_Work/assets/119130095/0262f38c-8243-49a0-aae2-ef0149f38518)
 ![Задание 3-4](https://github.com/Anton-Kovalev-10/Final_Work/assets/119130095/1cc2e0f2-3b32-499d-b8b0-70beae97af0d)
+Задание 4
+![Задание 4](https://github.com/Anton-Kovalev-10/Final_Work/assets/119130095/a1740213-7238-4aa7-a0d8-94031aba9506)
+![Задание 4-1](https://github.com/Anton-Kovalev-10/Final_Work/assets/119130095/a8ea6b1b-1677-4169-a027-b1784edda3ce)
