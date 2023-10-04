@@ -1,5 +1,4 @@
 # Final_Work!
-Задание 1
 [Задание 1](https://github.com/Anton-Kovalev-10/Final_Work/assets/119130095/25944681-027e-4b2e-82e4-64cfb6a2493b)
 Задание 2
 ![Задание 2](https://github.com/Anton-Kovalev-10/Final_Work/assets/119130095/808ca123-adf5-4ae5-a785-5af5cbc0dd69)
